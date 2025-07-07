@@ -1,2 +1,2 @@
-# Trabalho-de-Conclus-o-de-Curso
+# Trabalho de Conclusão de Curso
 Realizado na Universidade Tecnológica Federal do Paraná
